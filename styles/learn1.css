@@ -1,0 +1,48 @@
+h1 {
+    color: blue;
+    background-color: rgb(253, 252, 252);
+    text-align: justify;
+}
+
+
+/* heading style for h1*/
+
+h1 {
+    font-size: 35px;
+    text-shadow: 3px 3px 3px rgb(199, 32, 32)
+}
+
+p {
+    color: red;
+}
+
+ol {
+    color: rgb(245, 10, 206);
+    font-size: 30px;
+}
+
+/*style for product 1 */
+.product1{
+    width: 200px;
+    height: 230px;
+    padding: 3px;
+    border: 10px thick brown;
+}
+
+ /*style for mylogo */
+.mylogo{
+    width: 200px;
+    height: 230px;
+    padding: 3px;
+    border: 10px thick brown;
+
+}
+
+ul {
+    counter-increment: calc(5);
+}
+
+button {
+    color: rgb(212, 29, 29);
+    border-color: aqua;
+}
